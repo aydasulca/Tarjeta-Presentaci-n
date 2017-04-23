@@ -1,0 +1,20 @@
+#foto {
+  position: relative;
+  margin: 200px;
+  width: 800px;
+  height: 520px;
+}
+#fotolaboratoria {
+  position: absolute;
+  top: 0px;
+  width: 800px;
+  height: 520px;
+}
+#gradiente {
+  position: relative;
+  margin: 200px;
+  width: 800px;
+  height: 520px;
+  background: linear-gradient(to bottom right, rgba(0,0,0,0.80), rgba(0,0,0,800));
+
+}
